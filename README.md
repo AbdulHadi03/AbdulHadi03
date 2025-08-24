@@ -1,5 +1,5 @@
 <h1 align="center">Mohammed Abdul Hadi</h1>
-<p align="center">MS CS @ UIC • Full-Stack (MERN) • AWS • Docker • Data & AI</p>
+<p align="center">MS CS @ UIC • Full-Stack • AWS • Docker • Data & AI</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed--abdulhadi">LinkedIn</a> •
