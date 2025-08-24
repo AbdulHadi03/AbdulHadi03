@@ -32,6 +32,14 @@ Interested in bias-mitigated LLMs, data pipelines, and biomech tooling.
   <!-- DevOps / Cloud / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36" height="36"/>
+  <!-- Option A: original icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36" height="36" />
+
+<!-- Option B: wordmark (spelled exactly like this) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="72" height="36" />
+
+<!-- Option C: icongr.am CDN (nice fallback) -->
+<img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=36&color=currentColor" alt="AWS" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
 </p>
 
